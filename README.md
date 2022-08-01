@@ -9,7 +9,7 @@ For an example of how this works, see https://www.rickmurphy.net/adifvalidator.h
 
 
 Command line arguments:
-        '-f', '--file'			Required. Input File.
-        '-a', '--compliance'		Output file for compliance report  (default:stdout)
-        '-c', '--consistency'		Output file for consistency report (defaault:stdout)
-        '-w', '--html'			If specified, output file is HTML-formatted
+* '-f', '--file'		Required. Input File.
+* '-a', '--compliance'		Output file for compliance report  (default:stdout)
+* '-c', '--consistency'		Output file for consistency report (defaault:stdout)
+* '-w', '--html'		If specified, output file is HTML-formatted
