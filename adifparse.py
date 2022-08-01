@@ -1,6 +1,6 @@
 #!/bin/python
 # K1MU ADIF Parser
-# Copyright (c) 2020
+# Copyright (c) 2020,2022
 
 from optparse import OptionParser
 import os
